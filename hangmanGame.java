@@ -1,8 +1,7 @@
 /*                          
         PROJECT TITLE: HANGMAN GAME 
-        THIS GAME IS PROGRAMMED BY 
-        NAME:IRUM IMTIAZ                    
-        REG.NO: FA22-BCT-011  
+                           
+         
  */             
 
 import java.util.Scanner;
